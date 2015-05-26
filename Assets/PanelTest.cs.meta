@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a92296ca500a5b4b93973bcd267442b
+timeCreated: 1432577116
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - onNormalButton: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  - onHoverButton: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - onPressedButton: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - _myButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
